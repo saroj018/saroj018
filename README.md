@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saroj Aryal </h1>
-<h3 align="center"> Full Stack Developer(Leaerning) </h3>
+<h3 align="center"> Full Stack Developer(Learning) </h3>
 
 <p align="center">l
 <a href="https://www.linkedin.com/in/saroj-aryal-65474b281/" ><img src="https://img.shields.io/badge/-linkedin-yellowgreen?style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" /></a>&nbsp;
